@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "//add your project id",
+  "private_key_id": "//add your private key id",
+  "private_key": "//add your private key",
+  "client_email": "//add your service email id",
+  "client_id": "100080645652740999842",
+  "auth_uri": "//add your auth uri",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "//add your cert url"
+}
